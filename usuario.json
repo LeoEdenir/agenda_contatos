@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "leosin",
+    "login": "leosin",
+    "senha": "leosin"
+  },
+  {
+    "nome": "hugo",
+    "login": "hugo",
+    "senha": "hugo"
+  },
+  {
+    "nome": "luan",
+    "login": "luan",
+    "senha": "luan"
+  },
+  {
+    "nome": "admin",
+    "login": null,
+    "senha": null
+  }
+]
